@@ -1,18 +1,46 @@
-// colors
-$color-primary: #55c57a;
-$color-primary-light:  #7ed56f;
-$color-primary-dark: #28b485;
-$color-grey-dark: #777;
-$color-white: #fff;
-$color-black: #000;
+// main site colors
+$color-1: #6e0605;
+$color-2: #c00605;
+$color-3: #0c1117;
+$color-4: #222630;
+$color-5: #0f131e;
 
-$color-grey-light-1: #f7f7f7;
+// grays
+$color-gray-1: #eee;
+$color-gray-2: #ddd;
+$color-gray-3: #ccc;
+$color-gray-4: #777;
+$color-gray-5: #666;
 
+// white & black
+$color-white: #fafafa;
+$color-black: #333;
+
+// navigation colors
+$nav-color-1: #ed2d00;
+$nav-color-2: #ea5f00;
+$nav-color-3: #e82c00;
 
 // grid
-$grid-width: 114rem;
+$grid-width: 108rem;
 $gutter-vertical: 8rem;
+$gutter-none: 0rem;
 $gutter-horizontal: 7rem;
 
 // Font
-$default-font-size: 1.6rem;
+
+//positioning
+$space-top: 250px;
+
+//game
+$game-container-height: 500px;
+
+
+//typography
+$font-main: 'Montserrat';
+$font-secondary: 'Lato';
+$font-size-default: 1.6rem;
+
+$buffer-sm: 1rem;
+$buffer-md: 2rem;
+$buffer-lg: 3.5rem;
